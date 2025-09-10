@@ -1,0 +1,6 @@
+com\taller\clinicaapi\ClinicaAPI.class
+com\taller\clinicaapi\Database.class
+com\taller\clinicaapi\PruebaDB.class
+com\taller\clinicaapi\PacienteDAO.class
+com\taller\clinicaapi\PacienteResource.class
+com\taller\clinicaapi\Paciente.class
